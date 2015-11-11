@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello World3</string>
+    <string name="action_settings">Settings</string>
+    <string name="Greeting">Hello World!</string>
+</resources>
